@@ -1,2 +1,2 @@
 # ColorizeMe
-Simple changing color tests for this scss project
+Simple changing color tests for this old less project
